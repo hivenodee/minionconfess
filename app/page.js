@@ -66,14 +66,14 @@ export default function Page() {
               <strong>Never Jeet</strong>
               {/* eslint-disable-next-line react/no-unescaped-entities */}
               <p className="mt-2">
-                The sacred act of self-restraint. To "jeet" is to indulge in unholy cravings, giving in to fleeting pleasures. The Holy Babababible teaches that eternal joy comes not from overindulgence but from following the Minion way of balance and harmony. A true disciple of the Minions must remain pure, resisting all temptations to jeet.
+                The sacred act of self-restraint. To &quot;jeet&quot; is to indulge in unholy cravings, giving in to fleeting pleasures. The Holy Babababible teaches that eternal joy comes not from overindulgence but from following the Minion way of balance and harmony. A true disciple of the Minions must remain pure, resisting all temptations to jeet.
               </p>
             </li>
             <li className="mb-2">
               <strong>Never Goon</strong>
               {/* eslint-disable-next-line react/no-unescaped-entities */}
               <p className="mt-2">
-                To "goon" is to forsake the path of enlightenment, surrendering to chaos and distraction. The Babababible implores us to stay focused, centered on our faith in Jesus Minion and His divine wisdom. Those who goon risk wandering from the banana-lined road to salvation.
+                To &quot;goon&quot; is to forsake the path of enlightenment, surrendering to chaos and distraction. The Babababible implores us to stay focused, centered on our faith in Jesus Minion and His divine wisdom. Those who goon risk wandering from the banana-lined road to salvation.
               </p>
             </li>
           </ol>
