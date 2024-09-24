@@ -8,9 +8,9 @@ export default function Page() {
       <header className="p-4 flex justify-between items-start">
         <div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-yellow-400 tracking-tight leading-none">
-            anonymous<br />
-            <span className="text-white">jesus minion</span><br />
-            confessions
+            Anonymous<br />
+            <span className="text-white">Jesus Minion</span><br />
+            Confessions
           </h1>
         </div>
         <div className="flex flex-col items-end">
