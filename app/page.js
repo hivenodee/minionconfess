@@ -15,9 +15,9 @@ export default function Page() {
         {/* Title */}
         <div className="text-center md:text-left">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-yellow-400 tracking-tight leading-none">
-            anonymous<br />
-            <span className="text-white">jesus minion</span><br />
-            confessions
+            Anonymous<br />
+            <span className="text-white">Jesus Minion</span><br />
+            Confessions
           </h1>
         </div>
 
