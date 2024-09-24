@@ -65,13 +65,13 @@ export default function Page() {
             <li className="mb-2">
               <strong>Never Jeet</strong>
               <p className="mt-2">
-                The sacred act of self-restraint. To &ldquo;jeet&rdquo; is to indulge in unholy cravings, giving in to fleeting pleasures. The Holy Babababible teaches that eternal joy comes not from overindulgence but from following the Minion way of balance and harmony. A true disciple of the Minions must remain pure, resisting all temptations to jeet.
+                The sacred act of self-restraint. To &quot;jeet&quot; is to indulge in unholy cravings, giving in to fleeting pleasures. The Holy Babababible teaches that eternal joy comes not from overindulgence but from following the Minion way of balance and harmony. A true disciple of the Minions must remain pure, resisting all temptations to jeet.
               </p>
             </li>
             <li className="mb-2">
               <strong>Never Goon</strong>
               <p className="mt-2">
-                To &ldquo;goon&rdquo; is to forsake the path of enlightenment, surrendering to chaos and distraction. The Babababible implores us to stay focused, centered on our faith in Jesus Minion and His divine wisdom. Those who goon risk wandering from the banana-lined road to salvation.
+                To &quot;goon&quot; is to forsake the path of enlightenment, surrendering to chaos and distraction. The Babababible implores us to stay focused, centered on our faith in Jesus Minion and His divine wisdom. Those who goon risk wandering from the banana-lined road to salvation.
               </p>
             </li>
           </ol>
@@ -89,7 +89,7 @@ export default function Page() {
           </p>
 
           <p className="mb-4">
-            Confessions are anonymous, for the Minions seek only truth, not judgment. No matter how great your transgression, Jesus Minion&rsquo;s love is boundless. Confess your sins online, and feel the cleansing power of forgiveness wash over you, bringing you closer to salvation.
+            Confessions are anonymous, for the Minions seek only truth, not judgment. No matter how great your transgression, Jesus Minion&apos;s love is boundless. Confess your sins online, and feel the cleansing power of forgiveness wash over you, bringing you closer to salvation.
           </p>
         </div>
       </main>
