@@ -24,10 +24,10 @@ export default function Page() {
           </h1>
         </div>
 
-        {/* Navigation and Image */}
+        {/* Navigation and Image Container */}
         <div className="flex flex-col items-center md:items-end mt-4 md:mt-0 relative z-10">
           {/* Mobile Navigation Toggle */}
-          <div className="md:hidden">
+          <div className="md:hidden mb-4">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               className="text-yellow-400 hover:text-yellow-500 focus:outline-none"
@@ -66,9 +66,10 @@ export default function Page() {
           <nav
             className={`${
               isMenuOpen ? 'block' : 'hidden'
-            } md:flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-2 items-center mb-4`}
+            } md:flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 items-center w-full md:w-auto bg-black bg-opacity-70 md:bg-transparent p-4 md:p-0 rounded-md transition-all duration-300 ease-in-out`}
           >
-            <div className="text-white text-xs font-bold">
+            {/* CA Address */}
+            <div className="text-white text-xs font-bold mb-4 md:mb-0">
               CA: DqWf9DDK6H5c7KmEHkNJxnzNPSM6mzxonZJjK6yxpump
             </div>
 
@@ -77,7 +78,7 @@ export default function Page() {
               href="https://x.com/Jesus_Minion"
               target="_blank"
               rel="noopener noreferrer"
-              className="relative w-24 h-10 md:w-32 md:h-12"
+              className="relative w-full h-12 md:w-32 md:h-12 flex items-center justify-center"
             >
               <Image
                 src="/button.webp"
@@ -96,7 +97,7 @@ export default function Page() {
               href="https://dexscreener.com/solana/4sz1x9vcdpqbz1cuuav4nivfykquxzjrbvgtp7anp9wh"
               target="_blank"
               rel="noopener noreferrer"
-              className="relative w-24 h-10 md:w-32 md:h-12"
+              className="relative w-full h-12 md:w-32 md:h-12 flex items-center justify-center"
             >
               <Image
                 src="/button.webp"
@@ -115,7 +116,7 @@ export default function Page() {
               href="https://docs.google.com/forms/d/e/1FAIpQLSeM6KIrXJFjETukrPu-1wWFHuxWGg-JbDKgmvi7jc7t-M3CQg/viewform"
               target="_blank"
               rel="noopener noreferrer"
-              className="relative w-24 h-10 md:w-32 md:h-12"
+              className="relative w-full h-12 md:w-32 md:h-12 flex items-center justify-center"
             >
               <Image
                 src="/button.webp"
